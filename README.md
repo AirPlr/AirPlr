@@ -1,6 +1,10 @@
- # HI THERE!
  ___
-## I'm Lorenzo Imbastari. 3rd year at UNIVAQ
-### Studying Computer Science, and working as the IT GUY in some mysterious company
+# The AriaCast Project
+
+## Trying to create the alternative to Google Cast
+
+### Running In Python and Go (Go version coming soon)
+
+### Testers Are Welcome
  ___
 
