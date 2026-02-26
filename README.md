@@ -9,3 +9,8 @@
 ### Testers Are Welcome
  ___
 
+# STATS
+
+Android App Downloads: ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/AirPlr/AriaCast-app/total?style=for-the-badge)
+
+
