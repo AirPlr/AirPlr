@@ -6,6 +6,8 @@
 
 ## Trying to create the alternative to Google Cast
 
+## [AriaCast](https://airplr.github.io/ariacast)
+
 ### Testers Are Welcome
  ___
 
