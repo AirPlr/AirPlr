@@ -16,6 +16,6 @@
 Android App Downloads: ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/AirPlr/AriaCast-app/total?style=for-the-badge)
 
 ---
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](buymeacoffee.com/AirPlr)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/AirPlr)
 
 
